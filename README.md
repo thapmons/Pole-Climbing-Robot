@@ -13,7 +13,7 @@ Manual pole inspection in industries such as utilities and forestry poses signif
 ## System Architecture
 ## System Architecture Diagram
 
-![System Architecture](docs/System Architecture.png)
+![System Architecture](docs/System_Architecture.png)
 
 - Dual motorized gripping arms
 - Wheel-based climbing mechanism
