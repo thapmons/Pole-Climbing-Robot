@@ -2,7 +2,7 @@
 
 ## Overview
 Designed and developed a wheel-based dual-arm robotic system capable of vertical pole climbing and obstacle navigation for industrial inspection and worker safety applications.
-![1st Stage Development][media/WPCR_Descending.gif]
+
 ---
 
 ## Problem Statement
