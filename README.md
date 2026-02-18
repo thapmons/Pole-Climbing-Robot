@@ -45,7 +45,7 @@ Manual pole inspection in industries such as utilities and forestry poses signif
 Prototype development and system architecture validation in progress.
 
 ### Upper Stage Under Test
-![Project Demo](media/WPCR_Descending.gif)
+![Project Demo](media/WPCR_Descending.gif) ![Project Demo](media/WPCR_Obstacle_Nav_Test.gif)
 
 ---
 
