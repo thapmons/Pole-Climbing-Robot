@@ -3,7 +3,7 @@
 The robot uses a **Finite State Machine (FSM)** to coordinate vertical motion and automated obstacle avoidance. The system transitions between states based on manual joystick input and real-time sensor feedback from the upper and lower arms.
 
 ## Flowchart Diagram
-![Flowchart](Flowchart_Diagram.png)
+![Flowchart](media/Flowchart_Diagram.png)
 ## System States
 
 ### Core Navigation
