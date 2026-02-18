@@ -4,7 +4,7 @@ The robot uses a **Finite State Machine (FSM)** to coordinate vertical motion an
 
 ## Flowchart Diagram
 
-![Flowchart](media/Flowchart_Diagram.png)
+![Flowchart](..../media/Flowchart_Diagram.png)
 
 ## System States
 
