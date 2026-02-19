@@ -7,8 +7,13 @@ Designed and developed a wheel-based dual-arm robotic system capable of vertical
 ---
 
 ## Problem Statement
-Manual pole inspection in industries such as utilities and forestry poses significant safety risks and operational inefficiencies. This project aims to automate vertical climbing and obstacle traversal using an electromechanical robotic system.
-
+Pole-climbing robots (PCR) are used for inspection, maintenance, monitoring of vertical infrastructure, such as poles, towers, etc. Howevever reliability and obstacle negotiation remain the significant challenges among existing robots in this field. In fact, based on my research on existing PCRs, I identified several unresolved issues as listed below.
++ reliable obstacle negotiaton without complete loss of grip
++ continuous stability during climbing transitions
++ adaptability to varying pole diameters
++ reduced mechanical and control complexity while maintaining robustness
+<br>
+Motivated by these gaps, I attempted to design and develope a modular dual-arm PCR equipped with motorized wheels and a coordinated arm reconfiguration strategy. The proposed system ensures continuous gripping by alternately engaging the upper and lower arms during obstacle traversal, thereby maintaining stability throughout the climbing process while nevigating around obstacles. 
 ---
 
 ## System Architecture
